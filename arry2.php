@@ -6,7 +6,7 @@ $multi=array(array("23407","Ali","ali@gmail.com","0335-1205"),array("237","saima
 	 {
 	echo "<p>$value</P>";
 	}
-echo "<h2>MULTIDIMENTIONAL ARRaY</h2>";
+echo "<h2>changedmultidimentional ARRaY</h2>";
 echo "<table border='1' width='600px'>";
 echo "<tr><th>ID</th><th>Name</th><th>Email</th><th>contect</th><tr>";
 foreach ($multi as $key => $value)
